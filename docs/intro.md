@@ -9,7 +9,7 @@ slug: /
 ----
 
 ## The Paratext Training Manual is on the 
-### [**Paratext website**](manual.paratext.org)! 
+### **Paratext website** https://manual.paratext.org! 
 The current version is available on the  It is in English, French, and Portuguese
 Work is in progress for Spanish and Malayalam. 
 

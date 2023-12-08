@@ -9,7 +9,7 @@ slug: /
 ----
 
 ## Le manuel de formation Paratext se trouve sur le 
-### [**Site web de Paratext**](manual.paratext.org) ! 
+### **Site web de Paratext** https://manual.paratext.org ! 
 La version actuelle est disponible en anglais, en français et en portugais. 
 Des travaux sont en cours pour l'espagnol et le malayalam. 
 
